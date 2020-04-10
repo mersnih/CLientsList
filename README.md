@@ -1,2 +1,0 @@
-# CLientsList
-Created with CodeSandbox
